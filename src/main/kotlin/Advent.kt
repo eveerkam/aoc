@@ -17,5 +17,5 @@ class Advent {
 }
 
 fun main(args: Array<String>) {
-    Advent().run( 5)
+    Advent().run( 1,2,3,4,5)
 }
