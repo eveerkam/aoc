@@ -29,7 +29,7 @@ class AdventDaySix(private var path: String) {
         return counter
     }
 
-    private fun partTwo(): Any? {
+    private fun partTwo(): Int {
         val pathToMe = getMapToOrbit("YOU")
         val pathToSanta = getMapToOrbit( "SAN")
 
