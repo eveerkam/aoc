@@ -12,11 +12,12 @@ class Advent {
                 5 -> AdventDayFive(path + "day5").run()
                 6 -> AdventDaySix(path + "day6").run()
                 7 -> AdventDaySeven(path + "day7").run()
+                8 -> AdventDayEight(path + "day8").run()
             }
         }
     }
 }
 
 fun main(args: Array<String>) {
-    Advent().run( 7)
+    Advent().run( 8)
 }
