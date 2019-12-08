@@ -14,7 +14,6 @@ class Advent {
                 7 -> AdventDaySeven(path + "day7").run()
             }
         }
-
     }
 }
 
