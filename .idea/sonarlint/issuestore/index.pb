@@ -11,3 +11,23 @@ P
  src/main/kotlin/AdventDayFour.kt,0/a/0a122812ec504d72bd675bfcde032c9ce9237241
 P
  src/main/kotlin/AdventDayFive.kt,0/a/0a0dca47ab5d1eddd4e839c08c767704e6a51e89
+G
+src/main/resources/day6,5/3/532650283f56118fb228f7065862e5e2fc7a5abc
+W
+'src/main/kotlin/helper/IntcodeParser.kt,3/b/3bfc7b5818d1b5ed565aafbe65c470ed5b87773f
+G
+src/main/resources/day7,a/0/a07af22658c9b594c3722c94424a7b23d745948e
+Q
+!src/main/kotlin/AdventDaySeven.kt,e/3/e37af3186fab7e98b2a75daf6281f96304e1f1ef
+O
+src/main/kotlin/AdventDaySix.kt,d/5/d5f1ee1d6eeb39d697df789535a54210639f5074
+@
+AdventOfCode.iml,4/9/490713f32cf406b477cd295f5579ab23e11b9e0a
+G
+src/main/resources/day8,5/6/569e3c8011654ed8ac0273481df24f8d7e1d0bab
+Q
+!src/main/kotlin/AdventDayEight.kt,b/7/b7f6166f8522ee44baacfff5a4a16744ce33bbb8
+G
+src/main/resources/day9,0/c/0c1d94f9053680f4504cce93f2e967937d79daf3
+P
+ src/main/kotlin/AdventDayNine.kt,8/e/8ea0c11b3db6f25701f9855e6ac292ba9bedf8f9

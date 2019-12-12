@@ -1,6 +1,2 @@
 
-Qkotlin:S11721"-Remove this unused function parameter "mode".(Õ”ö•úÿÿÿÿ8·Å—§í-
-Vkotlin:S1481"2Remove this unused "paramModeCode" local variable.(ƒ¼“ƒûÿÿÿÿ8°Á™§í-
-Rkotlin:S1144G"3Remove this unused private "opCodeTwoParam" method.(’—¦ò8œÚ¹¥í-
-Kkotlin:S1144Q",Remove this unused private "partTwo" method.(âùÚÄ8ôê°¤í-
-=kotlin:S125"Remove this commented out code.(Óƒ‚‡8ôê°¤í-
+vkotlin:S37766"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ëòùêûÿÿÿÿ8æ¤—Üí-
