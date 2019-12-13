@@ -31,3 +31,9 @@ G
 src/main/resources/day9,0/c/0c1d94f9053680f4504cce93f2e967937d79daf3
 P
  src/main/kotlin/AdventDayNine.kt,8/e/8ea0c11b3db6f25701f9855e6ac292ba9bedf8f9
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+H
+src/main/resources/day10,c/5/c5515bce4eb9b421da86d6564271f4969d5033a3
+O
+src/main/kotlin/AdventDayTen.kt,a/1/a14d5143d58844b7fe8ede775f60c8e14ff7be02
